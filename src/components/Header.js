@@ -7,7 +7,7 @@ import { Component } from 'react';
 class Header extends Component {
     render() {
         return (
-            <div className='App-header'>I ❤ REACT with Classes!!!</div>
+            <div className='App-header'>My first Commit</div>
         );
     }
 }
